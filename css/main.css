@@ -526,6 +526,11 @@
     header {
       padding: 33px 0;
     }
+
+    header img {
+      max-width: 200px;  /* Slightly larger logo for tablets */
+    }
+  }
   
     header .content-wrapper {
       width: 100%;
